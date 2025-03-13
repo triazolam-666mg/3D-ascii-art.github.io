@@ -1,1 +1,1 @@
-# [https://triazolam-666mg/3D-ascii-art.github.io](sample)
+# [sample](https://triazolam-666mg.github.io/3D-ascii-art/)

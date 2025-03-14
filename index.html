@@ -162,7 +162,7 @@
       for (const edge of edges) {
         const p0 = projectedVertices[edge[0]];
         const p1 = projectedVertices[edge[1]];
-        drawLine(p0.col, p0.row, p1.col, p1.row, grid, '#');
+        drawLine(p0.col, p0.row, p1.col, p1.row, grid, '+');
       }
 
       const outputStr = grid.map(row => row.join('')).join('\n');
